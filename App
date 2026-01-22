@@ -1,0 +1,6 @@
+✅ Simple Todo App (Python – CLI)
+🔹 Features
+Add a task
+View all tasks
+Delete a task
+Exit the app
